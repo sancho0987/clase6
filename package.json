@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "jest",
-  "prettier": "prettier --check ."
-},
+    "test": "jest",
+    "prettier": "prettier --check ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sancho0987/clase6.git"
