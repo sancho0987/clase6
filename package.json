@@ -1,0 +1,25 @@
+{
+  "name": "clase6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest",
+  "prettier": "prettier --check ."
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sancho0987/clase6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sancho0987/clase6/issues"
+  },
+  "homepage": "https://github.com/sancho0987/clase6#readme",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "prettier": "^3.7.4"
+  }
+}
